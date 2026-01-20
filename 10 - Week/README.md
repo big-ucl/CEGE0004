@@ -25,7 +25,7 @@ An, S., Lee, M., Park, S., Yang, H., & So, J. (2020). An Ensemble of Simple Conv
 
 Raj, C., Mukherjee, A., Purohit, H., Anastasopoulos, A., & Zhu, Z. (2024). SALSA: Salience-Based Switching Attack for Adversarial Perturbations in Fake News Detection Models. Lecture Notes in Computer Science, 35–49.
 
-Mourtada, J., Gaïffas, S., & Scornet, E. (2021). AMF: Aggregated Mondrian Forests for Online Learning. Journal of the Royal Statistical Society Series B: Statistical Methodology, 83(3), 505–533. https://doi.org/10.1111/rssb.12425
+Mourtada, J., Gaïffas, S., & Scornet, E. (2021). AMF: Aggregated Mondrian Forests for Online Learning. Journal of the Royal Statistical Society Series B: Statistical Methodology, 83(3), 505–533.
 
 Neven, D., Brabandere, B. D., Georgoulis, S., Proesmans, M., & Gool, L. V. (2018). Towards End-to-End Lane Detection: an Instance Segmentation Approach. IEEE Xplore. 
 
