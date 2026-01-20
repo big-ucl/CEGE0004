@@ -35,10 +35,8 @@ Hinton, G. E., Osindero, S., & Teh, Y.-W. (2006). A Fast Learning Algorithm for 
 
 Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. ArXiv.org.
 ‌
-
 ‌
 ## 2023-24
-
 
 Guérin, Joris, Olivier Gibaru, Stéphane Thiery, and Eric Nyiri. "CNN features are also great at unsupervised classification." arXiv preprint arXiv:1707.01700 (2017).
 
